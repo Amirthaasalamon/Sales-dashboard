@@ -1,0 +1,25 @@
+KPI Cards
+
+Four headline metrics summarize overall performance at a glance: 
+₹655K in total sales, ₹106K in total profit, 498 orders, and 3K units sold — giving management an immediate pulse on the business before drilling into detail.
+
+Region & Category Slicers
+
+Interactive filters let users narrow the entire dashboard down to specific regions or product categories, turning a static summary into a self-service exploration tool.
+
+Order Date Range Slider
+
+A date range selector (currently set to 26-01-2023 to 31-12-2023) lets users zoom into any custom time window to analyze performance for a specific period rather than the full year.
+
+Pie Chart — Sum of Sales by Category and Region
+
+Breaks down the ₹655K in total sales across Technology, Office Supplies, and Furniture, split further by region within each slice — showing not just which category sells best, but where.
+
+Bar Chart — Sum of Profit by Region
+
+Ranks regions by profit contribution.
+West leads with roughly ₹40K+ in profit, followed by South, with the East region(s) trailing — highlighting where the business is most profitable versus where margins are weaker.
+
+Area Chart — Sum of Sales and Sum of Profit by Month
+
+Tracks sales and profit trends across all 12 months, with visible peaks around mid-year and again toward September–October, helping identify seasonal demand patterns for planning purposes.
